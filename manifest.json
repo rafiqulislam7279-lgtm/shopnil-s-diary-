@@ -1,7 +1,7 @@
 {
   "name": "Shopnil's Diary",
   "short_name": "Shopnil",
-  "description": "SR Field Manager - territory, targets and orders tracker. made by aditto",
+  "description": "A special gift app. Made with love from Aditto.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
